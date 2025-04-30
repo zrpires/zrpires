@@ -24,5 +24,3 @@
  <a href="https://x.com/zrpires" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/zrpires/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/zrpires/zrpires/blob/output/github-contribution-grid-snake.svg)
