@@ -12,7 +12,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jose-Rafael" height="200" width="200" src="https://media.discordapp.net/attachments/1367279052582551697/1367279110279266364/ezgif.com-speed.gif?ex=681a98e6&is=68194766&hm=e204ee951bb080f95287c0bd7d4d5b570c31b1479cb9ade15d7a2c490a8cbebf&=&width=569&height=854">
 </div>
  
 <br>
