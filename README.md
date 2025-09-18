@@ -4,7 +4,7 @@
 
  <div>
    <a href="https://github.com/zrpires">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrpires&show_icons=true&theme=tokyonight&include_all_commits=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrpires&show_icons=true&theme=tokyonight&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrpires&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=false"/>
 </div>
     
