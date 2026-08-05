@@ -1,43 +1,97 @@
-# 🧑🏻‍💻 José Rafael
+<p align="center">
+    <img width="1672" height="422" alt="Image" src="https://github.com/user-attachments/assets/97b04619-3f1e-4acb-912f-82fd4318a967" />
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&lines=Ol%C3%A1%2C+me+chamo+Jos%C3%A9+Rafael+%F0%9F%91%8B;Desenvolvedor+.NET;Criador+de+Conte%C3%BAdo;Streamer+na+Twitch+%7C+YouTube+%7C+Kick;Seja+bem-vindo+ao+meu+GitHub!" />
+
+</p>
+
+ # 🧑🏻‍💻 José Rafael
 
 **`Desenvolvedor`**
 
 Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[zrpires](https://www.youtube.com/@zrpires)", na Twitch "[zrpires](https://www.twitch.tv/zrpires)" e na Kick "[zrpires](https://kick.com/zrpires)" onde ensino a criar projetos web, crio outros conteúdos e converso com o chat.
 
-<p align="left">
+### 🎮 Canais
+
+<p align="center">
     <a href="https://www.youtube.com/@zrpires?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        <img
+            alt="YouTube"
+            title="Inscreva-se no YouTube"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCZCUmeQzn7JteaJfmqFe2RA?style=for-the-badge&logo=video&logoColor=white&label=YouTube&color=FF0000&labelColor=C70000"
         />
     </a>
-    <a href="https://www.youtube.com/@zrpires">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/zrpires?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/zrpires?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    <a href="https://www.twitch.tv/zrpires">
+        <img
+            alt="Twitch"
+            title="Siga na Twitch"
+            src="https://img.shields.io/badge/Twitch-zrpires-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
         />
     </a>
-    <a href="https://github.com/zrpires?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/zrpires?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    <a href="https://kick.com/zrpires">
+        <img
+            alt="Kick"
+            title="Siga na Kick"
+            src="https://img.shields.io/badge/Kick-zrpires-53FC18?style=for-the-badge&logo=kick&logoColor=000000"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌐 Redes Sociais
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/zrpires/">
+        <img
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-zrpires-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/zrpires/">
+        <img
+            alt="Instagram"
+            title="Instagram"
+            src="https://img.shields.io/badge/Instagram-@zrpires-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://x.com/zrpires">
+        <img
+            alt="X"
+            title="X (Twitter)"
+            src="https://img.shields.io/badge/X-@zrpires-000000?style=for-the-badge&logo=x&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 💻 GitHub
+
+<p align="center">
+    <a href="https://github.com/zrpires?tab=repositories&sort=stargazers">
+        <img
+            alt="Estrelas"
+            title="Total de estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/zrpires?style=for-the-badge&logo=star&label=Estrelas&color=F7DF1E&labelColor=C9A100"
+        />
+    </a>
+    <a href="https://github.com/zrpires?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Seguidores"
+            src="https://custom-icon-badges.demolab.com/github/followers/zrpires?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=24292F&labelColor=000000"
+        />
+    </a>
+</p>
+
+---
+
+<h2>🤖 Linguagens e Tecnologias</h2>
 
 <img 
     align="left" 
@@ -69,7 +123,7 @@ Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente,
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -81,59 +135,11 @@ Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente,
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -152,25 +158,8 @@ Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<p align="center">
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 </p>
