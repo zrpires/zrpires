@@ -12,7 +12,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[zrpires](https://www.youtube.com/@zrpires)", na Twitch "[zrpires](https://www.twitch.tv/zrpires)" e na Kick "[zrpires](https://kick.com/zrpires)" onde ensino a criar projetos web, crio outros conteúdos e converso com o chat.
+Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no  "[YouTube](https://www.youtube.com/@zrpires)", "[Twitch](https://www.twitch.tv/zrpires)" e "[Kick](https://kick.com/zrpires)" onde desenvolvo meus projetos, crio outros conteúdos como gameplays e reacts e converso com o chat.
 
 ### 🎮 Canais
 
